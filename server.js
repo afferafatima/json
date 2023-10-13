@@ -26,6 +26,5 @@ app.get("/affera",(req,res)=>{
 })
 app.get("/fatima",(req,res)=>{
     res.send("Hello there!! I am Affera fatima");
+    res.send("Hello there!! I am Affera fatima");
 })
-
-
